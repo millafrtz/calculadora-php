@@ -1,1 +1,1 @@
-Calculadora simples realizada em java.
+Calculadora simples realizada em php.
